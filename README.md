@@ -4,7 +4,7 @@ Tenho 18 anos, moro em Cacoal/RO e curso Análise e Desenvolvimento de Sistemas.
 
 Hoje estou estudando redes (TCP/IP, DNS, DHCP, Wi-Fi e fibra) e procurando minha primeira vaga em TI, de preferência em suporte técnico ou desenvolvimento.
 
-Antes da área de TI trabalhei 2 anos como estagiário administrativo na prefeitura de Miranda da Serra e depois como vendedor. Foi onde aprendi a atender gente, o que ajuda bastante no suporte.
+Antes da área de TI trabalhei 2 anos como assistente administrativo (jovem aprendiz) na Prefeitura de Mirante da Serra e depois como vendedor. Foi onde aprendi a atender gente, o que ajuda bastante no suporte.
 
 **Projetos**
 
