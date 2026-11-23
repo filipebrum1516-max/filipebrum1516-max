@@ -1,31 +1,17 @@
-## Olá! Eu sou o Filipe Brum 👋
+### Oi, sou o Filipe
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, de Cacoal/RO. Sou apaixonado por tecnologia e estou começando minha carreira em **TI**, com foco em **suporte técnico, redes e desenvolvimento**.
+Tenho 18 anos, moro em Cacoal/RO e curso Análise e Desenvolvimento de Sistemas. Gosto de entender como as coisas funcionam por dentro, tanto o código quanto a rede por onde ele passa.
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (indo para o 3º semestre)
-- 🌐 Estudando redes de computadores: TCP/IP, DNS, DHCP, Wi-Fi, fibra óptica (FTTH)
-- 🤝 Experiência com atendimento ao público e ao cliente (estágio administrativo na prefeitura e vendas)
-- 🎯 Buscando oportunidade em **Suporte Técnico N1/N2**, **Help Desk** ou **Desenvolvimento**
+Hoje estou estudando redes (TCP/IP, DNS, DHCP, Wi-Fi e fibra) e procurando minha primeira vaga em TI, de preferência em suporte técnico ou desenvolvimento.
 
-### 🛠️ Tecnologias
+Antes da área de TI trabalhei 2 anos como estagiário administrativo na prefeitura de Miranda da Serra e depois como vendedor. Foi onde aprendi a atender gente, o que ajuda bastante no suporte.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Projetos**
 
-**Redes e suporte:** TCP/IP · DNS · DHCP · ICMP (ping/traceroute) · Wi-Fi · FTTH/ONU · Troubleshooting · Atendimento ao cliente
+- [diagnostico-rede](https://github.com/filipebrum1516-max/diagnostico-rede): ferramenta em Python que faz os testes que o suporte faz quando o cliente reclama de internet lenta (ping, DNS, gateway, velocidade) e gera um relatório para o chamado.
+- [VetFlow](https://github.com/filipebrum1516-max/VetFlow1.0For404): sistema para clínica veterinária, em TypeScript.
+- [chat](https://github.com/filipebrum1516-max/https-github.com-manualdodev-chat): chat com frontend e backend, em JavaScript.
 
-### 📂 Projetos em destaque
+**Uso no dia a dia:** Python, JavaScript, TypeScript, Git, Windows e Linux.
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**diagnostico-rede**](https://github.com/filipebrum1516-max/diagnostico-rede) | Ferramenta que automatiza o diagnóstico de internet lenta ou sem conexão, identifica a causa provável e gera relatório para o chamado de suporte | Python, Redes, CLI, Testes, GitHub Actions |
-| [**VetFlow**](https://github.com/filipebrum1516-max/VetFlow1.0For404) | Sistema de gestão para clínica veterinária | TypeScript |
-| [**chat**](https://github.com/filipebrum1516-max/https-github.com-manualdodev-chat) | Aplicação de chat com frontend e backend | JavaScript |
-
-### 📫 Contato
-
-📧 filipebrum1516@gmail.com
+Contato: filipebrum1516@gmail.com
